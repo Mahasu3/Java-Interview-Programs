@@ -4,10 +4,10 @@ This repository contains a collection of Java programs aimed at beginners. These
 
 **_Note: These programs are primarily created for personal use._**
 
-## Purpose
+## <span style="color:red">Purpose</span>
 The purpose of this repository is to provide a convenient way for the owner to store and access Java programs for self-learning and practice purposes. 
 
-## Program Structure
+## <span style="color:red">Program Structure</span>
 The programs included here are designed to offer a comprehensive understanding of fundamental Java concepts. While some programs may lack optimized solutions and resort to brute force approaches, they are logically built and serve as valuable learning exercises.
 
 ## Contents
